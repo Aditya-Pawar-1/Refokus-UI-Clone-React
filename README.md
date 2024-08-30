@@ -1,4 +1,3 @@
-```markdown
 # Refokus UI Clone (React)
 
 This repository contains a React-based clone of the Refokus UI, developed during the **Frontend Domination** course at Sheryians Coding School. The project utilizes **Tailwind CSS** for styling and **LocomotiveScroll** for smooth scroll animations.
@@ -6,16 +5,16 @@ This repository contains a React-based clone of the Refokus UI, developed during
 ## Features
 
 - Replicates the design of the Refokus UI
-- Styled using **Tailwind CSS**
-- Smooth scroll animations with **LocomotiveScroll**
+- Styled using Tailwind CSS
+- Smooth scroll animations with LocomotiveScroll
 - Built entirely with React
 
 ## Tech Stack
 
-- **React**: For building the user interface
-- **Tailwind CSS**: For styling and responsive design
-- **LocomotiveScroll**: For smooth scroll animations
-```
+- React: For building the user interface
+- Tailwind CSS: For styling and responsive design
+- LocomotiveScroll: For smooth scroll animations
+
 
 ## Getting Started
 
@@ -79,7 +78,7 @@ SOFTWARE.
 
 ## Acknowledgements
 
-- **Sheryians Coding School**: This project was developed as part of the **Frontend Domination** course.
+- **[Sheryians Coding School](https://sheryians.com/)**: This project was developed as part of the **Frontend Domination** course.
 
 ## Contact
 
