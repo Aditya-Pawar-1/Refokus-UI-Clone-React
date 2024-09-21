@@ -55,6 +55,17 @@ Refokus-UI-Clone-React/
 └── README.md
 ```
 
+## Website-Images
+
+
+![Screenshot 2024-09-21 214016](https://github.com/user-attachments/assets/6453a1c6-2e28-43bf-88c3-de59f8bd3462)
+
+![Screenshot 2024-09-21 214032](https://github.com/user-attachments/assets/7305a182-b678-46e4-9460-a1863a9b3a2f)
+
+![Screenshot 2024-09-21 214048](https://github.com/user-attachments/assets/f62ebaae-ba38-49b9-932b-58c4b25af049)
+
+![Screenshot 2024-09-21 214106](https://github.com/user-attachments/assets/ccefce66-7da0-495c-90f9-09314bb77623)
+
 ## License
 
 
@@ -79,8 +90,3 @@ SOFTWARE.
 ## Acknowledgements
 
 - **[Sheryians Coding School](https://sheryians.com/)**: This project was developed as part of the **Frontend Domination** course.
-
-## Contact
-
-For any questions or feedback, please reach out to [Aditya Pawar](www.linkedin.com/in/aditya-pawar-dev).
-```
